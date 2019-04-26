@@ -8,13 +8,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.2.20/test.ipa</string>
+                    <string>http://192.168.1.128/klh.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.XXX.XXX</string>
+                <string>com.qianhuahua.hx</string>
                 <key>bundle-version</key>
                 <string>1.00</string>
                 <key>kind</key>
