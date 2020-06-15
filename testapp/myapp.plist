@@ -14,7 +14,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.kuailaihua.hx</string>
+                <string>com.inpaway.livchatapns</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
@@ -22,7 +22,7 @@
                 <key>releaseNotes</key>
                 <string>测试OTA</string>
                 <key>title</key>
-                <string>LivChat</string>
+                <string>LivChat开发版本</string>
             </dict>
         </dict>
     </array></dict></plist>
