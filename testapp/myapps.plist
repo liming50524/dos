@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>com.dayu.livchat</string>
                     <key>url</key>
-                    <string>http://192.168.1.61/zs/LivChat.ipa</string>
+                    <string>http://192.168.1.61/LivChat.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
