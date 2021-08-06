@@ -10,9 +10,9 @@
             <array>
                 <dict>
                     <key>kind</key>
-                    <string>com.inpaway.livchatapns</string>
+                    <string>me.sparklehub.sparkle</string>
                     <key>url</key>
-                    <string>http://192.168.1.5/LivChat.ipa</string>
+                    <string>http://192.168.1.5/Sparkle_V2.1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
