@@ -8,13 +8,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.1.15/cs/LivChat.ipa</string>
+                    <string>http://192.168.1.15/cs/Sparkle_V2.1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.inpaway.livchatapns</string>
+                <string>me.sparklehub.sparkle</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
